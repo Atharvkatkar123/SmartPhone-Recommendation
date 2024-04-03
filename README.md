@@ -1,5 +1,6 @@
 # SmartPhone-Recommendation
 this project is build on the hole core python with jupyter notebook which give suggestions about smartphone with user req and the  ratings
+team is @aarya2001 @Vishweshwar2002 @Sohmm24
 
 Certainly! The project is a Smartphone Recommendation System implemented using Tkinter, a Python GUI library. The goal of the system is to recommend smartphones based on user-specified criteria such as RAM, ROM, battery capacity, and brand preference.
 
